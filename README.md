@@ -1,7 +1,7 @@
-# LuaEnv_5.1 / Lua Sandbox Running Lua Version 5.1.4 (Open Source)
+# LuaEnv_5.1 / Lua Sandbox Running Lua Version 5.1.4
 Lua 5.1.4 Version of the original Lua Env, Also enhanced majorly and has alot better functions and stability
 
-* Made by Cypher#2763 / Powered by Lua 5.1.4 / C++
+* Made by Cypher#2763 / Powered by Lua 5.1.4
 
 Currently this lua sandbox is built for deobfuscation / reversing and breaking lua scripts security, it is *currently* equipped with functions like:
 ```lua
