@@ -2,7 +2,7 @@
 * Made by Cypher#6678 | For lua documentation visit https://www.lua.org/manual/5.1/manual.html#2
 This sandbox is made for multiple major tasks and suddle tasks such as reverse engineering, encryption and much more, this documentation will walk you through the most valuable functions
 
-## Global Hooking Library (Based in _G)
+## Global Hooking Library (Based in Global Environment)
 This segmented part of _G is dedicated to hooking security / cracking malicious code and or reverse engineering lua code in some cases
 
 * ★**hookfunction( function1 , function2 ) Return Value: Function**
